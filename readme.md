@@ -18,5 +18,5 @@
 ### example
 |before|next|
 |----|-----|
-|[![before_img]](https://github.com/kstsunhj/readme_test/blob/master/img/1-1.png)|[![next_img]](https://github.com/kstsunhj/readme_test/blob/master/img/messageImage_1645941236878.jpg)|
+|![before_img](https://github.com/kstsunhj/readme_test/blob/master/img/1-1.png)|![next_img](https://github.com/kstsunhj/readme_test/blob/master/img/messageImage_1645941236878.jpg)|
 
