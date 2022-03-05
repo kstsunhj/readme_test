@@ -1,11 +1,11 @@
 ## Setup
 ## Usage
-The code is built on Python3
+The code is built on Python3  
 `6/3/2022` update note: we optimized the structure of **make_obj_file.py**, add some comments, and modify **readme.md**, Previous version is archived in the `legacy` branch.
 ## Application
     This application is built by python. The aim of it is rapid modeling. Precisely, it could convert desk photo to 3d model, and transfer png file to obj file.
 ## demo
-run run.py in command using
+run run.py in command using  
     pip install numpy
     pip install opencv-python
     pip install os
